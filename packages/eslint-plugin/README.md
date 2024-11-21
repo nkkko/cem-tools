@@ -19,7 +19,9 @@ This plugin leverages the `@html-eslint/eslint-plugin` and `@html-eslint/parser`
 npm install -D eslint-plugin-custom-element eslint @html-eslint/eslint-plugin @html-eslint/parser
 ```
 
-> **_NOTE:_** If you would like to have these rules automatically generated for you, check out the [Custom Element ESLint Rule Generator](https://www.npmjs.com/package/custom-element-eslint-rule-generator).
+> **_NOTE:_** If you would like to have these rules automatically generated for you, check out the [Custom Element ESLint Rule Generator](https://www.npmjs.com/package/custom-element-eslint-rule-generator)
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/break-stuff/cem-tools).
 
 ### Configuration
 
